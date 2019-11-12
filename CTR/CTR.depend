@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1568727671 source:c:\users\brian john\documents\code blocks\ctr\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1568728110 source:c:\users\brian john\documents\code blocks\ctr\my_allocator.cpp
+	<cstdlib>
+	"my_allocator.hpp"
+	<assert.h>
+	<iostream>
+
+1568015321 c:\users\brian john\documents\code blocks\ctr\my_allocator.hpp
+	<cstdlib>
+
+1568728259 source:c:\users\brian john\documents\code blocks\ctr\free_list.cpp
+	<iostream>
+	"free_list.hpp"
+
+1568015123 c:\users\brian john\documents\code blocks\ctr\free_list.hpp
+	<cstdlib>
+
+1568728354 source:c:\users\brian john\documents\code blocks\ctr\memtest.cpp
+	<iostream>
+	<string.h>
+	<sys/time.h>
+	<assert.h>
+	"my_allocator.hpp"
+

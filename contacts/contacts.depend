@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569315855 source:c:\users\brian john\documents\code blocks\contacts\contacts.cpp
+	"Variables.h"
+
+1569315647 c:\users\brian john\documents\code blocks\contacts\variables.h
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+

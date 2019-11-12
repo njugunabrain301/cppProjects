@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1569170959 source:c:\users\brian john\documents\code blocks\map\bigmain.cpp
+	"MapSize.h"
+	"RawMap.h"
+	"Shape.h"
+	"Map.h"
+
+1569169880 c:\users\brian john\documents\code blocks\map\mapsize.h
+
+1569168265 c:\users\brian john\documents\code blocks\map\rawmap.h
+	<iostream>
+	<string>
+	<fstream>
+	<string.h>
+	"MapSize.h"
+	"Shape.h"
+
+1569169940 c:\users\brian john\documents\code blocks\map\shape.h
+
+1569169133 c:\users\brian john\documents\code blocks\map\map.h
+	"MapSize.h"
+	"Shape.h"
+
+1569168773 source:c:\users\brian john\documents\code blocks\map\rawmap.cpp
+	"MapSize.h"
+	"Shape.h"
+	"RawMap.h"
+
+1569169967 source:c:\users\brian john\documents\code blocks\map\map.cpp
+	"MapSize.h"
+	"Map.h"
+	"Shape.h"
+	"RawMap.h"
+
+1569170019 source:c:\users\brian john\documents\code blocks\map\shape.cpp
+	"Shape.h"
+	"RawMap.h"
+
